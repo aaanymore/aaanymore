@@ -1,4 +1,6 @@
-## Hi there 👋
+
+<img width="1392" height="1130" alt="f9e88141-8a0d-4a61-8824-dfc23a405d43" src="https://github.com/user-attachments/assets/474ef82e-ac1d-4243-8367-38c546dd3101" />
+
 
 <!--
 **aaanymore/aaanymore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
